@@ -46,7 +46,7 @@ The following questions were answered with this project:
 
 3) Do developers with different education have different hopes for the next 5 years? There is very little to no correlation between the two.
 
-You can find a more detailed description of the results [here]().
+You can find a more detailed description of the results [here](https://medium.com/@lumo17/yesterdays-developers-their-satisfaction-levels-and-hopes-for-the-future-2db41498624a).
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 
